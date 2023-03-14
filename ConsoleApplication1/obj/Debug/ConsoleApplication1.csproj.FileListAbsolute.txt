@@ -1,0 +1,2 @@
+D:\22.11.4899 Pemograman\Pertemuan 1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\22.11.4899 Pemograman\Pertemuan 1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
